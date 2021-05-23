@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vellaquito\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vellaquito\\.nuget\\packages"
+    ]
+  }
+}
